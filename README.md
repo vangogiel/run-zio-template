@@ -1,4 +1,4 @@
-# run-zio-tempalte
+# run-zio-template
 
 ## Run the service
 
