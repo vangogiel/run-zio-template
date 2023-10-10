@@ -1,4 +1,4 @@
-# conduktor-challenge
+# run-zio-tempalte
 
 ## Run the service
 
